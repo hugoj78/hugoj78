@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### 😇 EGU Hugo-Jean 😇
+
+- 🔭 I work on different projet to conclude my master in IT
+
+- 🌱 I'm looking : React, Ruby, DevOps, Java, CI/CD, IOT ...
+
+- 📫 I'm currently working for : IBM 
+
+
+
 <!--
 **hugoj78/hugoj78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
