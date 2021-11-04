@@ -6,7 +6,7 @@
 
 - 🌱 I'm looking : React, Ruby, DevOps, Java, CI/CD, IOT ...
 
-- 📫 I'm currently working for : IBM 
+- 📫 I'm currently working for : IBM Consulting 
 
 
 
