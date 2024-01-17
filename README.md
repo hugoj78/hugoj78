@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### 😇 EGU Hugo-Jean 😇
+#### My name is EGU Hugo-Jean !
 
 <!-- - 🔭 I work on different projets to conclude my master in IT -->
 
-- 🌱 I'm looking : React, Ruby, DevOps, Java, CI/CD, IOT ...
+<!-- - 🌱 I'm looking : React, Ruby, DevOps, Java, CI/CD, IOT ... -->
 
 <!-- - 📫 I'm currently working for : IBM Consulting -->
 
